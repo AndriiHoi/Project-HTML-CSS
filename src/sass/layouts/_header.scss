@@ -1,4 +1,3 @@
-
 .header {
   &__container {
     @media screen and(min-width: 1280px) {
@@ -14,7 +13,9 @@
     }
 
     @media screen and (min-width: 1280px) {
-      padding-left: 561px;
+      // padding-left: 561px;
+      top: 0;
+      right: 0;
     }
   }
   &__spoon {
