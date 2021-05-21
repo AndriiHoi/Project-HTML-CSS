@@ -903,13 +903,14 @@ ul {
     padding-bottom: 15px;
     border-top: 15px;
   }
-  .about-us-trigger {
-    cursor: pointer;
-    display: inline-block;
-    font-family: Caveat Brush;
-    font-size: 18px;
-    color: var(--read-more-color);
-  }
+}
+
+.read-more-trigger {
+  cursor: pointer;
+  display: inline-block;
+  font-family: Caveat Brush;
+  font-size: 18px;
+  color: var(--read-more-color);
 }
 
 .program {
