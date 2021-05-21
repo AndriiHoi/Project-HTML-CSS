@@ -859,7 +859,7 @@ ul {
 }
 
 .about-us__text {
-  width: 392px;
+  max-width: 392px;
   margin-bottom: 15px;
 }
 
