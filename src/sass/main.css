@@ -480,6 +480,10 @@ ul {
   cursor: pointer;
 }
 
+.mobile-menu-btn:focus, .mobile-menu-btn:hover {
+  fill: var(--focus-hover-color);
+}
+
 @media screen and (min-width: 768px) {
   .mobile-menu-btn {
     top: 25px;
